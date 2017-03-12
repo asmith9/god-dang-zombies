@@ -1,10 +1,10 @@
-var Theodoric = {};
+var GodDangZombies = {};
 
-Theodoric.Boot = function (game) {
+GodDangZombies.Boot = function (game) {
 
 };
 
-Theodoric.Boot.prototype = {
+GodDangZombies.Boot.prototype = {
 
     init: function () {
 

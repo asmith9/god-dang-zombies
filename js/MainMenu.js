@@ -1,6 +1,6 @@
-Theodoric.MainMenu = function (game) {};
+GodDangZombies.MainMenu = function (game) {};
 
-Theodoric.MainMenu.prototype = {
+GodDangZombies.MainMenu.prototype = {
 
     init: function(score) {
 
